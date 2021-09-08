@@ -1,0 +1,12 @@
+package ru.maxima.util;
+
+/**
+ * 06.08.2021
+ * 27. SimpleProgram
+ *
+ * @author Sidikov Marsel (First Software Engineering Platform)
+ * @version v1.0
+ */
+public interface IdGenerator {
+    int nextId();
+}

@@ -1,6 +1,6 @@
-package ru.maxima.repositories;
+package repositories;
 
-import ru.maxima.models.User;
+import models.User;
 
 import java.util.ArrayList;
 import java.util.List;

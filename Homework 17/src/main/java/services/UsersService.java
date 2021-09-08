@@ -1,16 +1,14 @@
-package ru.maxima.services;
+package services;
 
-import ru.maxima.dto.UserDto;
-import ru.maxima.models.User;
-import ru.maxima.repositories.UsersRepository;
-import ru.maxima.repositories.UsersRepositoryListImpl;
+import dto.UserDto;
+import models.User;
+import repositories.UsersRepository;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-import static ru.maxima.dto.UserDto.from;
-
+import static dto.UserDto.from;
 
 public class UsersService {
 

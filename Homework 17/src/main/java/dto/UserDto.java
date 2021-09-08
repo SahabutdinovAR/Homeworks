@@ -1,11 +1,18 @@
-package ru.maxima.dto;
+package dto;
 
-import ru.maxima.models.User;
+import models.User;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.StringJoiner;
 
+/**
+ * 22.07.2021
+ * 27. SimpleProgram
+ *
+ * @author Sidikov Marsel (First Software Engineering Platform)
+ * @version v1.0
+ */
 public class UserDto {
     private String email;
     private int id;

@@ -1,4 +1,4 @@
-package ru.maxima.util;
+package util;
 
 /**
  * 06.08.2021

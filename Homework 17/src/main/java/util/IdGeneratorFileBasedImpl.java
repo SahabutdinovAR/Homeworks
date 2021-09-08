@@ -1,14 +1,8 @@
-package ru.maxima.util;
+package util;
 
 import java.io.*;
 
-/**
- * 06.08.2021
- * 27. SimpleProgram
- *
- * @author Sidikov Marsel (First Software Engineering Platform)
- * @version v1.0
- */
+
 public class IdGeneratorFileBasedImpl implements IdGenerator {
 
     private String sequenceFileName;

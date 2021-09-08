@@ -1,13 +1,10 @@
-package ru.maxima;
-
-import ru.maxima.dto.UserDto;
-import ru.maxima.models.User;
-import ru.maxima.repositories.UsersRepository;
-import ru.maxima.repositories.UsersRepositoryFileBasedImpl;
-import ru.maxima.repositories.UsersRepositoryListImpl;
-import ru.maxima.services.UsersService;
-import ru.maxima.util.IdGenerator;
-import ru.maxima.util.IdGenerators;
+import dto.UserDto;
+import models.User;
+import repositories.UsersRepository;
+import repositories.UsersRepositoryFileBasedImpl;
+import services.UsersService;
+import util.IdGenerator;
+import util.IdGenerators;
 
 import java.util.List;
 import java.util.Optional;

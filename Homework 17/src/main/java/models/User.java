@@ -1,9 +1,7 @@
-package ru.maxima.models;
+package models;
 
 import java.util.Objects;
 import java.util.StringJoiner;
-
-
 public class User {
     private int id;
     private String email;

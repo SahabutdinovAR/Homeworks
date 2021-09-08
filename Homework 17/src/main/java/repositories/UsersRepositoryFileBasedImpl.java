@@ -1,13 +1,12 @@
-package ru.maxima.repositories;
+package repositories;
 
-import ru.maxima.models.User;
-import ru.maxima.util.IdGenerator;
+import models.User;
+import util.IdGenerator;
 
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
-
 
 public class UsersRepositoryFileBasedImpl implements UsersRepository {
 

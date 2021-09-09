@@ -1,0 +1,15 @@
+
+X
+java:S18542"=Remove this useless assignment to local variable "printUser".(ÄçÉÈúÿÿÿÿ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(Ö¸ÍĞ
+Q	java:S125-"<This block of commented-out lines of code should be removed.(©íù™
+Q	java:S125/"<This block of commented-out lines of code should be removed.(œ”é‰
+Q	java:S1251"<This block of commented-out lines of code should be removed.(Üê—«
+G
+java:S16122",Replace this lambda with a method reference.(ÄçÉÈúÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ÄçÉÈúÿÿÿÿ
+I
+java:S14812".Remove this unused "printUser" local variable.(ÄçÉÈúÿÿÿÿ
+G
+java:S16123",Replace this lambda with a method reference.(Ş©¢·øÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(Ş©¢·øÿÿÿÿ

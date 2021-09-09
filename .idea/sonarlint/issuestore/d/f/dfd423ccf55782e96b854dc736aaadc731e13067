@@ -1,0 +1,25 @@
+
+Q
+java:S18541";Remove this useless assignment to local variable "entries".(º»ÈÌ
+U
+java:S18540":Remove this useless assignment to local variable "values".(•çäÄûÿÿÿÿ
+S
+java:S1854/"8Remove this useless assignment to local variable "keys".(Öïµ»şÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(üË¹¸
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(¿ß­)
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ÕË«’
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(÷¡ÈÒ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(šßú…ÿÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(£äµ
+D
+java:S1481/")Remove this unused "keys" local variable.(Öïµ»şÿÿÿÿ
+F
+java:S14810"+Remove this unused "values" local variable.(•çäÄûÿÿÿÿ
+B
+java:S14811",Remove this unused "entries" local variable.(º»ÈÌ
+f
+java:S1192%"PDefine a constant instead of duplicating this literal "ĞšĞ°Ğº Ğ´ĞµĞ»Ğ°" 3 times.(è¹úÄ
+e
+java:S1192"ODefine a constant instead of duplicating this literal "Ğ¡Ğ¸Ğ´Ğ¸ĞºĞ¾Ğ²" 3 times.(æšıË
+c
+java:S1192$"MDefine a constant instead of duplicating this literal "ĞŸÑ€Ğ¸Ğ²ĞµÑ‚" 3 times.(‘äÆ™

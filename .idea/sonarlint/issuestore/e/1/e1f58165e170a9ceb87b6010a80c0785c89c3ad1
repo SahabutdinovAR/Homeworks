@@ -1,0 +1,10 @@
+
+h	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çíêâúÿÿÿÿ
+c	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¶±
+c	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŒ¿¸
+h	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş±Ã¤şÿÿÿÿ
+G
+java:S16027",Remove useless curly braces around statement(ˆ‰Êúÿÿÿÿ
+c	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¸Š¥
+M
+java:S1135L"2Complete the task associated to this TODO comment.(ŞŒüùøÿÿÿÿ

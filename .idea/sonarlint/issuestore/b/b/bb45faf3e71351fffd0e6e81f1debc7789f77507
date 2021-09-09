@@ -1,0 +1,14 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(óä¶Õ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æïĞ‹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†¬Ñùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¹»Ú§üÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¹ğòŒıÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¹ğòŒıÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(¢Û„‡
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ÑŞõ®øÿÿÿÿ
+B
+java:S30118",This accessibility update should be removed.(˜ÂÓ˜
+B
+java:S30119",This accessibility bypass should be removed.(±ºÁ‹
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(¹ğòŒıÿÿÿÿ

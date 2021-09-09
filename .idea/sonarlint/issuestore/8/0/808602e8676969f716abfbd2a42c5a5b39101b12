@@ -1,0 +1,5 @@
+
+o	java:S116 "ZRename this field "MAX_USERS_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘√¿ô
+7
+java:S1170 "!Make this final field static too.(‘√¿ô
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Û≠ˆù

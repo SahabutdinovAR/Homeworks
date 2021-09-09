@@ -1,0 +1,25 @@
+
+`
+java:S1854-"ERemove this useless assignment to local variable "valueFromInteger2".(ìÃæÙüÿÿÿÿ
+_
+java:S1854,"DRemove this useless assignment to local variable "valueFromInteger".(œµ¯Ìøÿÿÿÿ
+P
+java:S1854)"5Remove this useless assignment to local variable "i".(¥šø‰ùÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "value".(“ÀÝã
+@
+java:S1481"*Remove this unused "value" local variable.(“ÀÝã
+V	java:S125"<This block of commented-out lines of code should be removed.(Þ¹ª¶üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(•ïÑ†ùÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(½‰Í[
+Q	java:S125$"<This block of commented-out lines of code should be removed.(–ŽÙˆ
+<
+java:S2129)"!Remove this "Integer" constructor(¥šø‰ùÿÿÿÿ
+J
+java:S1874)"/Remove this use of "Integer"; it is deprecated.(¥šø‰ùÿÿÿÿ
+A
+java:S1481)"&Remove this unused "i" local variable.(¥šø‰ùÿÿÿÿ
+P
+java:S1481,"5Remove this unused "valueFromInteger" local variable.(œµ¯Ìøÿÿÿÿ
+Q
+java:S1481-"6Remove this unused "valueFromInteger2" local variable.(ìÃæÙüÿÿÿÿ

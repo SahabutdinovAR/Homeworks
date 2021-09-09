@@ -1,0 +1,23 @@
+
+S
+java:S1197"8Move the array designator from the variable to the type.(³À‘ûÿÿÿÿ
+S
+java:S1197*"8Move the array designator from the variable to the type.(À±´ıùÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(€½ç¥ÿÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(÷î‡±øÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S
+java:S1197?"8Move the array designator from the variable to the type.(ì”ÈĞùÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(Û‰Ã¡
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ºñıÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ğÀ‰Ëøÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(İ‰¸úÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(ŒÛÕ¨
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(Ù÷áşÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(–Õÿ·şÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(Ò¡ñøÿÿÿÿ
+M	java:S106I"9Replace this use of System.out or System.err by a logger.(úõ¯^
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÒÜÅ¸úÿÿÿÿ

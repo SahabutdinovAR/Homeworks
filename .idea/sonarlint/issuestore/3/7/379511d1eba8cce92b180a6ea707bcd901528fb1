@@ -1,0 +1,4 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Þÿ† ÿÿÿÿÿ
+^
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(„ì€¸

@@ -1,0 +1,10 @@
+
+y	java:S116"_Rename this field "MAX_PASSENGERS_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽÖ˜Úÿÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ŽÖ˜Úÿÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(÷§ûÇûÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ÿ–€ëýÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(öåØÔýÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(–õËþÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ë™ç°øÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ƒ¬”¼ùÿÿÿÿ

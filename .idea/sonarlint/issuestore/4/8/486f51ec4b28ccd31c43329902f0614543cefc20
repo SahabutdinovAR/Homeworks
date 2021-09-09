@@ -1,0 +1,9 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "pi".(»¹ŸØûÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "min".(óÉ¢»
+>
+java:S1481"(Remove this unused "min" local variable.(óÉ¢»
+B
+java:S1481"'Remove this unused "pi" local variable.(»¹ŸØûÿÿÿÿ

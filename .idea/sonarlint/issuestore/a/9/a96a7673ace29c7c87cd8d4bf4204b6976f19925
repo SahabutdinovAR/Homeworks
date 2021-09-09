@@ -1,0 +1,11 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘
+S
+java:S1197"8Move the array designator from the variable to the type.(ì”ÈĞùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(–·¶şÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(÷î‡±øÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ãü…ˆüÿÿÿÿ

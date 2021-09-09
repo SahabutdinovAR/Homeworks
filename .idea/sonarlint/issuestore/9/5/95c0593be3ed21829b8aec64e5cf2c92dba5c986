@@ -1,0 +1,6 @@
+
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(“ÄËßşÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ëİ’ğûÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(üç½¨úÿÿÿÿ
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‰Äëùÿÿÿÿ

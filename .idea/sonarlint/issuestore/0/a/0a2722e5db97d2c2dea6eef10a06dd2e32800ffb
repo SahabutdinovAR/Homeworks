@@ -1,0 +1,13 @@
+
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ï§©Üùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï§©Üùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™³Ý’
+S
+java:S1197"8Move the array designator from the variable to the type.(õ±€öüÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(×â˜Žþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×â˜Žþÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ö™ÅÙûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö™ÅÙûÿÿÿÿ

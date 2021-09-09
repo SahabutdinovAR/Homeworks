@@ -1,0 +1,12 @@
+
+L
+java:S1854"6Remove this useless assignment to local variable "o2".(ÿ¨Š‹
+Q
+java:S1854"6Remove this useless assignment to local variable "o1".(â°Òðüÿÿÿÿ
+B
+java:S1481"'Remove this unused "o1" local variable.(â°Òðüÿÿÿÿ
+=
+java:S1481"'Remove this unused "o2" local variable.(ÿ¨Š‹
+=
+java:S1481"'Remove this unused "h1" local variable.(¡‹¦¨
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®ª ˜

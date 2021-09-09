@@ -1,0 +1,7 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "a".(²ƒŸÆ
+N
+java:S1197"8Move the array designator from the variable to the type.(²ƒŸÆ
+<
+java:S1481"&Remove this unused "a" local variable.(²ƒŸÆ

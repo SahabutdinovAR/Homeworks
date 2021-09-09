@@ -1,0 +1,6 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "h1".(ä”‚Òüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€Âşüÿÿÿÿ
+B
+java:S1481"'Remove this unused "h1" local variable.(ä”‚Òüÿÿÿÿ

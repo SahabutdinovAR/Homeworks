@@ -37,7 +37,7 @@ public class DocumentsFramework {
     private <T extends Document> void processDefaultValueAnnotation(T document) {
     }
 
-    public <T extends Document> void processingCheckRangeAnnotation(Document document) {
+    public <T extends Document> void processingCheckRangeAnnotation(Document document,Object value) {
         Class<T> documentClass = (Class<T>) document.getClass();
         Field[] fields = documentClass.getDeclaredFields();
 
@@ -50,7 +50,8 @@ public class DocumentsFramework {
                 int min = checkRange.min();
                 int max = checkRange.max();
                 int value = Certificate.getActiveYears();
-                // указываем возможность задания значения этого поля
+                final boolean min =<value, value <= max; // if(value >= min & value <= max){
+               // указываем возможность задания значения этого поля
                 field.setAccessible(true);
                 // в конкретный документ в конкретное поле кладем конкретное значение
             } else {
@@ -60,33 +61,36 @@ public class DocumentsFramework {
                 } catch (IllegalAccessException e) {
                     throw new IllegalArgumentException(e);
                 }
+            }
+        }
+    }
 
-                private <T extends Document > void processDefaultValueAnnotation (T document){
-                    Class<T> documentClass = (Class<T>) document.getClass();
-                    Field[] fields = documentClass.getDeclaredFields();
+    private <T extends Document> void processDefaultValueAnnotation(T document) {
+        Class<T> documentClass = (Class<T>) document.getClass();
+        Field[] fields = documentClass.getDeclaredFields();
 
-                    for (Field field : fields) {
-                        // хотим получить поля, которые помечены аннотацией DefaultValue
-                        DefaultValue defaultValueAnnotation = field.getAnnotation(DefaultValue.class);
-                        // если поле field помечено аннотацией DefaultValue
-                        if (defaultValueAnnotation != null) {
-                            // забираем значение, которым было помечено это поле
-                            String value = defaultValueAnnotation.value();
-                            // указываем возможность задания значения этого поля
-                            field.setAccessible(true);
-                            // в конкретный документ в конкретное поле кладем конкретное значение
-                            try {
-                                field.set(document, value);
-                            } catch (IllegalAccessException e) {
-                                throw new IllegalArgumentException(e);
-                            }
-                        }
-                    }
+        for (Field field : fields) {
+            // хотим получить поля, которые помечены аннотацией DefaultValue
+            DefaultValue defaultValueAnnotation = field.getAnnotation(DefaultValue.class);
+            // если поле field помечено аннотацией DefaultValue
+            if (defaultValueAnnotation != null) {
+                // забираем значение, которым было помечено это поле
+                String value = defaultValueAnnotation.value();
+                // указываем возможность задания значения этого поля
+                field.setAccessible(true);
+                // в конкретный документ в конкретное поле кладем конкретное значение
+                try {
+                    field.set(document, value);
+                } catch (IllegalAccessException e) {
+                    throw new IllegalArgumentException(e);
                 }
             }
         }
     }
 }
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 package maxima.reflection.solution;
 
-import src.ru.maxima.reflection.framework.DefaultValue;
-import src.ru.maxima.reflection.framework.Document;
+import maxima.reflection.framework.DefaultValue;
+import maxima.reflection.framework.Document;
 
 import java.time.LocalDate;
 import java.util.StringJoiner;

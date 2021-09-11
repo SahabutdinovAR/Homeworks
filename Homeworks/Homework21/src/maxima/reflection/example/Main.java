@@ -5,13 +5,6 @@ import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-/**
- * 02.09.2021
- * 35. Reflection
- *
- * @author Sidikov Marsel (First Software Engineering Platform)
- * @version v1.0
- */
 public class Main {
     public static void main(String[] args) throws IllegalAccessException,
             InstantiationException, NoSuchMethodException, InvocationTargetException, NoSuchFieldException {

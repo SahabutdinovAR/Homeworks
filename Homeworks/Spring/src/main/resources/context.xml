@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="signUpDataValidator" class="ru.maxima.SignUpDataValidatorEmailAndPasswordImpl">
+    <constructor-arg name="passwordValidator" ref="passwordValidatorByLength"/>
+    <constructor-arg name="emailValidator" ref ="emailValidator"/>
+</bean>
+    <bean id="passwordValidatorByCharacters" class="ru.maxima.PasswordCharactersValidatorImpl"/>
+    <bean id="passwordValidatorByLength" class="ru.maxima.PasswordByLengthValidator">
+        <property name="minLength" value="5"/>
+    </bean>
+</beans>

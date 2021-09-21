@@ -2,7 +2,7 @@ package repositories;
 
 import com.zaxxer.hikari.HikariDataSource;
 import jdk.nashorn.internal.objects.NativeFunction;
-import models.User;
+import ru.maxima.models.User;
 import util.IdGenerator;
 
 import java.io.*;

@@ -1,5 +1,5 @@
 import dto.UserDto;
-import models.User;
+import ru.maxima.models.User;
 import repositories.UsersRepository;
 import repositories.UsersRepositoryFileBasedImpl;
 import services.UsersService;

@@ -1,6 +1,6 @@
 package repositories;
 
-import models.User;
+import ru.maxima.models.User;
 
 import java.util.List;
 import java.util.Optional;

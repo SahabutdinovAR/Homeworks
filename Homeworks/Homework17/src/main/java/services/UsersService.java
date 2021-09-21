@@ -1,7 +1,7 @@
 package services;
 
 import dto.UserDto;
-import models.User;
+import ru.maxima.models.User;
 import repositories.UsersRepository;
 
 import java.util.ArrayList;

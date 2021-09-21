@@ -1,6 +1,6 @@
 package dto;
 
-import models.User;
+import ru.maxima.models.User;
 
 import java.util.ArrayList;
 import java.util.List;

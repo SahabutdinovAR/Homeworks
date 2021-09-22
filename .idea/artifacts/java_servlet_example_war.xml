@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="java-servlet-example:war">
+    <output-path>$PROJECT_DIR$/Homeworks/Homework23/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>java-servlet-example</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="java-servlet-example-0.1.war">
+      <element id="artifact" artifact-name="java-servlet-example:war exploded" />
+    </root>
+  </artifact>
+</component>

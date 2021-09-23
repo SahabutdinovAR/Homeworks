@@ -3,8 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Homework22/Homework22.iml" filepath="$PROJECT_DIR$/Homework22/Homework22.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Homework23/Homework23.iml" filepath="$PROJECT_DIR$/Homework23/Homework23.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Homework24/Homework24.iml" filepath="$PROJECT_DIR$/Homework24/Homework24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework24/Homework23.iml" filepath="$PROJECT_DIR$/Homework24/Homework23.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Homeworks.iml" filepath="$PROJECT_DIR$/.idea/Homeworks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring(по лекции)/Spring.iml" filepath="$PROJECT_DIR$/Spring(по лекции)/Spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework17/spring-demo.iml" filepath="$PROJECT_DIR$/Homework17/spring-demo.iml" />
